@@ -1,6 +1,5 @@
 //Murooj Al-zahrani
-//ID: s443008435
-//a group (Lab): 15
+
 
 
 
@@ -460,10 +459,3 @@ public static String num(){
 
 } //end the class block
 
-
-
-/* Thank you Dr. Shaima
-I know your job is stressful and the hours are long,
-but you are always kind and understanding. 
-I am grateful to have been taught by such an admirable person
-*/
